@@ -4,6 +4,8 @@ Built as a part of Udacity course project. It shows a week's forecast in the mai
 Users can change location by going to settings and giving pin code as input. Unit can also be changed.
 The app sends notifications when weather changes.
 
+<h5>Note: Api key is needed for it to work. It's to be put in<br>/app/src/main/java/com/toxoidandroid/sunshine/sync/SunshineSyncAdapter.java</h5>
+
 #Screenshots
 <h3>Main Screen</h3>
 <img src="/app/screenshots/a.jpg" width="360" title="Main Screen">
